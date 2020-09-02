@@ -1,0 +1,24 @@
+#show-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#main-content{
+    margin-bottom: 20px;
+}
+
+#main-content #row{
+    padding: 21px
+}
+
+.delete-form{
+    display: inline;
+}
+
+#alert{
+    margin-top: 24px;
+}
+
+.sign{
+    width: 500px;
+}
